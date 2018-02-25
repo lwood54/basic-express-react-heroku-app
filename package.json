@@ -1,0 +1,8 @@
+{
+  "name": "basic-express-react-heroku-app",
+  "version": "1.0.0",
+  "description": "Setting up a basic express / react / heroku app",
+  "main": "index.js",
+  "author": "Logan Wood",
+  "license": "MIT"
+}
