@@ -4,5 +4,12 @@
   "description": "Setting up a basic express / react / heroku app",
   "main": "index.js",
   "author": "Logan Wood",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "password-generator": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
